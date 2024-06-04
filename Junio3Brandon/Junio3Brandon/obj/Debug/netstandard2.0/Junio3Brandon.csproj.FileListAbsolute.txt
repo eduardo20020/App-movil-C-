@@ -1,0 +1,15 @@
+C:\Users\Eduar\Desktop\cSharp\Junio3Brandon\Junio3Brandon\Junio3Brandon\bin\Debug\netstandard2.0\Junio3Brandon.deps.json
+C:\Users\Eduar\Desktop\cSharp\Junio3Brandon\Junio3Brandon\Junio3Brandon\bin\Debug\netstandard2.0\Junio3Brandon.dll
+C:\Users\Eduar\Desktop\cSharp\Junio3Brandon\Junio3Brandon\Junio3Brandon\bin\Debug\netstandard2.0\ref\Junio3Brandon.dll
+C:\Users\Eduar\Desktop\cSharp\Junio3Brandon\Junio3Brandon\Junio3Brandon\bin\Debug\netstandard2.0\Junio3Brandon.pdb
+C:\Users\Eduar\Desktop\cSharp\Junio3Brandon\Junio3Brandon\Junio3Brandon\obj\Debug\netstandard2.0\Junio3Brandon.csproj.AssemblyReference.cache
+C:\Users\Eduar\Desktop\cSharp\Junio3Brandon\Junio3Brandon\Junio3Brandon\obj\Debug\netstandard2.0\Junio3Brandon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduar\Desktop\cSharp\Junio3Brandon\Junio3Brandon\Junio3Brandon\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Eduar\Desktop\cSharp\Junio3Brandon\Junio3Brandon\Junio3Brandon\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Eduar\Desktop\cSharp\Junio3Brandon\Junio3Brandon\Junio3Brandon\obj\Debug\netstandard2.0\Junio3Brandon.AssemblyInfoInputs.cache
+C:\Users\Eduar\Desktop\cSharp\Junio3Brandon\Junio3Brandon\Junio3Brandon\obj\Debug\netstandard2.0\Junio3Brandon.AssemblyInfo.cs
+C:\Users\Eduar\Desktop\cSharp\Junio3Brandon\Junio3Brandon\Junio3Brandon\obj\Debug\netstandard2.0\Junio3Brandon.csproj.CoreCompileInputs.cache
+C:\Users\Eduar\Desktop\cSharp\Junio3Brandon\Junio3Brandon\Junio3Brandon\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Eduar\Desktop\cSharp\Junio3Brandon\Junio3Brandon\Junio3Brandon\obj\Debug\netstandard2.0\Junio3Brandon.dll
+C:\Users\Eduar\Desktop\cSharp\Junio3Brandon\Junio3Brandon\Junio3Brandon\obj\Debug\netstandard2.0\refint\Junio3Brandon.dll
+C:\Users\Eduar\Desktop\cSharp\Junio3Brandon\Junio3Brandon\Junio3Brandon\obj\Debug\netstandard2.0\Junio3Brandon.pdb

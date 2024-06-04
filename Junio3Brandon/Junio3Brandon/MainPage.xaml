@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Junio3Brandon.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Api de Negocios cercanos" HorizontalTextAlignment="Center" TextColor="White" FontSize="Title"/>
+            <Label x:Name="lbllatitud"/>
+            <Label x:Name="lbllongitud"/>
+        </Frame>
+
+        <StackLayout Padding="30">
+
+            <ListView x:Name="myListView">
+                <ListView.ItemTemplate>
+
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Name}" Width="200"/>
+                            <TextBlock Text="{Binding Age}" Width="100"/>
+                            <TextBlock Text="{Binding Country}" Width="200"/>
+                        </StackPanel>
+                    </DataTemplate>
+
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>
